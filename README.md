@@ -10,8 +10,9 @@ RANDOM TEXT <h1>HMMMMM</h1>
 <p>Šeit strādā html</p>
 <table>
   <td>
-    Nu nevar būt
+    <tr>nu nevar būr</tr>
+    <tr>Nopietni</tr>
+    <tr>Wow!!!</tr>
   </td>
-  <tr>Nopietni</tr>
-  <tr>Wow!!!</tr>
+  
   </table>
